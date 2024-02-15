@@ -1,7 +1,9 @@
+import {SignUp} from "./components/SignUp.tsx";
+
 function App() {
   return (
     <>
-      <div>Hello</div>
+      <SignUp/>
     </>
   )
 }
